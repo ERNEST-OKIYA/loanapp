@@ -34,7 +34,7 @@ PyYAML==5.4.1
 redis==3.5.3
 requests==2.25.1
 six==1.16.0
-sqlparse==0.4.1
+sqlparse==0.4.2
 tablib==3.0.0
 urllib3==1.26.6
 xlrd==2.0.1
